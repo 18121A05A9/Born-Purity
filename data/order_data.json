@@ -1,0 +1,24 @@
+{
+	"pin":["515501","517102","515502"],
+	"company":[
+		{
+	"comp_name":"sree sai filters",
+	"pro_name":["Normal","Bisleri","Kinley"],
+	"price":["₹.35","₹.80","₹.60"],
+	"image":["images/normal.png","images/bisleri.png","images/kinley.png"]
+
+		},
+		{
+	"comp_name":"sri hari filters",
+	"pro_name":["Normal","Bisleri"],
+	"price":["₹.35","₹.70"],
+	"image":["images/normal.png","images/bisleri.png"]
+		},
+		{
+	"comp_name":"sri ganesha filters",
+	"pro_name":["Normal","Kinley"],
+	"price":["₹.30","₹.60"],
+	"image":["images/normal.png","images/kinley.png"]
+		}
+			]
+}
